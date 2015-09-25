@@ -1,5 +1,5 @@
 {
-    "name": "nelmio/api-doc-bundle",
+    "name": "openview/nelmio-api-doc-bundle",
     "description": "Generates documentation for your REST API from annotations",
     "keywords": ["api", "documentation", "doc", "rest"],
     "type": "symfony-bundle",
@@ -48,7 +48,7 @@
     "autoload": {
         "psr-0": { "Nelmio\\ApiDocBundle": "" }
     },
-    "target-dir": "Nelmio/ApiDocBundle",
+    "target-dir": "Openview/NelmioApiDocBundle",
     "extra": {
         "branch-alias": {
             "dev-master": "2.9.x-dev"
